@@ -1,0 +1,4 @@
+enum PlayerEnum{
+  blue,
+  orange;
+}
